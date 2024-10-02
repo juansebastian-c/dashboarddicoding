@@ -18,3 +18,5 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+Or use the following link:
+https://dashboarddicoding-hqnl8ikut4pnyrppc79826.streamlit.app/
